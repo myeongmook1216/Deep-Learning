@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-import Resnet_34
+import Resnet34
 
 from torchsummary import summary
 from torch import optim
